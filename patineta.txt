@@ -1,2 +1,3 @@
 con 4 ruedas
 marca generica
+con 4 ruedas sin tabla
