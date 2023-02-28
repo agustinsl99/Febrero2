@@ -1,1 +1,1 @@
-con 4 ruedas
+con 4 ruedas sin tabla
