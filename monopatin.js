@@ -1,1 +1,2 @@
-patineta;
+patineta; bicicleta
+motoneta
